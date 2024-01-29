@@ -1,0 +1,10 @@
+// Comentário em uma unica linha
+
+/**
+ * Esse código é Hackerzao
+ * Author: Givaildo de Andrade
+ * Data 29/01/2024
+ */
+
+// ignorando a linha abaixo
+// const variavelConstante = 1+2+4+4
